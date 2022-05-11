@@ -1,2 +1,3 @@
 # first
-premier projet
+premier projet  en suivant les cours openclassrooms
+
